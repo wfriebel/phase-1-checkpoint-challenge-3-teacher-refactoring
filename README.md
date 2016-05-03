@@ -20,4 +20,3 @@ Make sure the tests still pass.
 
 ## Continue
 * Make sure you have committed your work
-* Go to the [Main Readme](../README.md) and review the rest of the assessment
